@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000736909434",
+    "project_id": "merchant-pmck",
+    "storage_bucket": "merchant-pmck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000736909434:android:0fe99f29d826f4d278f3c3",
+        "android_client_info": {
+          "package_name": "com.example.rewardz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000736909434-3m4f60ber07lff22ej783kd6eihgt9sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNP3ZMglGChv_QpEJe_ufHVVTjQObUAE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000736909434-3m4f60ber07lff22ej783kd6eihgt9sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
